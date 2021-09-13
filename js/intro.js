@@ -15,7 +15,7 @@ $.ready.then(function(){
 
  // ridirect landing page
  function directpage() {
-     return window.location.href = 'https://themeforest.net/item/artha-interactive-interior-wordpress-theme/21477696'; //change with your url
+     return window.location.href = 'https://www.ayakkabihane.com/hakiki-deri-ayakkabi/hakiki-deri-erkek-ayakkabi/hakiki-deri-erkek-bot'; //change with your url
  }
  
  // skipp button
